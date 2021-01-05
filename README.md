@@ -1,4 +1,4 @@
-## Fullstack web developer.
+## Full Stack web developer, possibly...
 
 ### My skills:
 - HTML
