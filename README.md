@@ -3,6 +3,7 @@
 ### My skills:
 - HTML
 - CSS/SASS
+- PostgreSQL
 - Javascript
     * node
     * react
