@@ -5,7 +5,7 @@
 - CSS <img width="22px" alt="CSS" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" />
     * SASS
 - PostgreSQL <img width="18px" alt="PG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" />
-- mongoDB <img width="14px" alt="MDB" src="https://webassets.mongodb.com/_com_assets/cms/leaf-2g1s5txorx.svg" />
+- mongoDB <img width="13px" alt="MDB" src="https://webassets.mongodb.com/_com_assets/cms/leaf-2g1s5txorx.svg" />
 - JavaScript <img width="18px" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" />
     * Node 
     * React
