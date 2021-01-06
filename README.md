@@ -2,7 +2,7 @@
 
 ### My skills:
 - HTML
-- CSS <img width="16px" alt="PG" src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" />
+- CSS <img width="18px" alt="PG" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
     * SASS <img width="18px" alt="PG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1920px-Sass_Logo_Color.svg.png" />
 - PostgreSQL <img width="18px" alt="PG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" />
 - Javascript <img width="18px" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" />
