@@ -8,7 +8,7 @@
     * node
     * react
     * express
-- Typescript <img width="16px" alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" />
+- Typescript <img width="18px" alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" />
     * -nest
     * -angular
 
