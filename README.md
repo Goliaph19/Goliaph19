@@ -4,7 +4,7 @@
 - HTML
 - CSS/SASS
 - PostgreSQL
-- Javascript
+- Javascript <img width="18px" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" />
     * node
     * react
     * express
