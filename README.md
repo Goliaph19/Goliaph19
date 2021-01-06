@@ -6,7 +6,7 @@
     * SASS <img width="20px" alt="SASS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1920px-Sass_Logo_Color.svg.png" />
 - PostgreSQL <img width="18px" alt="PG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" />
 - Javascript <img width="18px" alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" />
-    * node <img width="18px" alt="NODE" src="https://icon-library.com/images/node-icon/node-icon-21.jpg" />
+    * node <img width="18px" alt="NODE" src="https://p1.hiclipart.com/preview/885/534/395/green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-png-clipart-thumbnail.jpg" />
     * react
     * express
 - Typescript <img width="18px" alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" />
