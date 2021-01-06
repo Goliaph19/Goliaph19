@@ -18,5 +18,3 @@
 
 ### Some links:
 - [CodeWars](https://www.codewars.com/users/DanilaJS "CodeWars")
-- [YouTube](https://www.youtube.com/channel/UC4qk6chAVY2eyhRHX26g9pA "YouTube")
-- [Vk](https://vk.com/id463795683 "Vk")
