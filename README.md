@@ -11,9 +11,9 @@
     * React
     * Express
 - TypeScript <img width="18px" alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" />
-    * -Nest
-    * -Angular
-    * -TypeORM
+    * Nest
+    * Angular
+    * TypeORM
 
 
 ### Some links:
