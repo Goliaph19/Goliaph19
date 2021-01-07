@@ -15,6 +15,3 @@
     * Angular
     * TypeORM
 
-
-### Some links:
-- [CodeWars](https://www.codewars.com/users/DanilaJS "CodeWars")
