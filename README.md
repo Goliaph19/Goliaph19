@@ -1,3 +1,1 @@
-## Full Stack web developer, possibly...
-
 ### ЛАНСЕР САСИ
